@@ -2,7 +2,7 @@
 
  <h2 align='center'> A web page to generate inspiring quotes! <h2>
  
- <h3 align='center'><a href='https://quote-generator-mustafamsaad.vercel.app/' Live Demo </h3></a>
+ <h3 align='center'><a href='https://quote-generator-mustafamsaad.vercel.app/'> Live Demo </h3></a>
  
  ### About project: 
 * A simple web page for generating inspiring quotes with an attractive design.
