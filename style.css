@@ -152,6 +152,10 @@ button:active {
   }
 } /* Media Queries for Tablet and Smaller */
 @media (max-width: 1000px) {
+  html {
+    font-size: 50%;
+  }
+
   .quote-container {
     margin: auto 1rem;
   }
